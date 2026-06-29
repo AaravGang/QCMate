@@ -2,3 +2,4 @@
 2) from the original dataset: renamed the 3 different thread classes to just one thread class
    Distinguishing the three will be done in ocr pipeline
    
+IMPORTANT: MANY CLASSES ARE BEING INCORRECTLY PREDICTED AS BACKGROUND RN
