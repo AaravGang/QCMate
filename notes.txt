@@ -1,0 +1,4 @@
+1) from the original dataset: resized images to 1024x1024 with white padding
+2) from the original dataset: renamed the 3 different thread classes to just one thread class
+   Distinguishing the three will be done in ocr pipeline
+   

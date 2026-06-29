@@ -1,0 +1,1 @@
+Current code is desgined to run on colab while connected to g drive
