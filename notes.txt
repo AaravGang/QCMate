@@ -3,3 +3,4 @@
    Distinguishing the three will be done in ocr pipeline
    
 IMPORTANT: MANY CLASSES ARE BEING INCORRECTLY PREDICTED AS BACKGROUND RN
+BEST CONF = 0.05???
